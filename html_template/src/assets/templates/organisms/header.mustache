@@ -1,0 +1,39 @@
+{{#org-header}}
+<header class="header {{additional-classes}}">
+  <div class="container-fluid">
+    <div class="row align-items-center">
+      <div class="col-4 col-lg-3 logo-block">
+        <a href="#">
+          <img src="assets/img/logo-well-planned.png" alt="logo">
+        </a>
+      </div>
+      <div class="col-4 col-lg-9 text-right d-none d-lg-inline-block">
+        {{> ../molecules/main-nav}}
+        <a href="#" class="btn btn--default">get started</a>
+      </div>
+
+      <!-- Mobile MENU-->
+      <div class="responsive-menu d-lg-none d-block">
+        <div class="burger">
+          <span></span>
+        </div>
+
+        <nav>
+          <ul class="main">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sample Trip</a></li>
+            <li><a href="#">How it Works</a></li>
+            <li><a href="#">Pricing</a></li>
+          </ul>
+          <div class="col-12 d-lg-none text-center">
+            <a href="#" class="btn btn--default responsive-btn">get started</a>
+          </div>
+        </nav>
+
+      </div>
+      <!-- /Mobile MENU -->
+    </div>
+
+  </div>
+</header>
+{{/org-header}}

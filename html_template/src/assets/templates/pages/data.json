@@ -1,0 +1,1322 @@
+{
+  "p-index": {
+    "head": {
+      "title": "Home",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "active": true,
+            "item": "Home"
+          },        
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing"
+          }
+        ]
+      }
+    },
+    "org-main-baner": {
+      "main-banner-slides": [
+        {
+          "bg": "home-baner-bg.jpg"
+        },
+        {
+          "bg": "our-story.jpg"
+        },
+        {
+          "bg": "paris.jpg"
+        }
+      ],
+      "mol-animation-1": true,
+      "down-button": true
+    },
+    "org-home-content-line-1": {
+      "mol-get-started": {
+        "top-block": {
+          "mol-title-with-underline": {
+            "title-level": "2",
+            "title": "FIND YOUR PERFECT TOUR"
+          },
+          "text": "WP travel plugin is is an easy to use plugin that enhance your travel site with powerful features. Travel Log theme also has compatibility for WP..."
+        },
+        "bottom-block": {
+          "mol-title-with-underline": {
+            "title-level": "2",
+            "title": "Sample Trip"
+          },
+          "text": "Have a look, see how we make a Well Planned trip for you!"
+        }
+      }
+    },
+    "org-home-content-line-2": {
+      "mol-content-info-line2": [
+        {
+          "show": true,
+          "tab-id":"tab-2",
+          "title": "Italy",
+          "image-name": "itali-img.jpg",
+          "parameters": [
+            {
+              "parameters-info": "<span>DESIGNER:</span>Sara"
+            },
+            {
+              "parameters-info": "<span>TIME:</span>Several "
+            },
+            {
+              "parameters-info": "<span>HOTEL:</span>The St. Regis Florence"
+            },
+            {
+              "parameters-info": "On 27 September,From Rome-Florence We highly recommended going by fast train."
+            },
+            {
+              "parameters-info": "<span>Duration:</span>1 hour, 30 minuets"
+            }
+          ],
+          "description": "I found Well Planned 365 after already getting an itinerary from a typical travel agency. Simply put, Well Planned 365 recommendations blew theirs out of the water. Every concierge we worked with really listened to what we wanted as travelers and led us to the off-the-beaten-path sights we were looking for. Plus, the process is super smooth and easy! <span class='signature'>Melissa</span>"  
+        }
+      ],
+      "mol-home-tabs-link":[
+        {
+          "active": true,
+          "href": "#tab-2",
+          "h2": "Italy",
+          "span": "2",
+          "image-name": "assets/img/itali-img.jpg"
+        }
+    ]
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "org-subscribe-block": {},
+    "foot": {
+      "jquery": true,
+      "slick-slider":true,
+      "bootstrap": true
+    }
+  },
+  "p-our-story": {
+    "head": {
+      "title": "our-story",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },        
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-main-baner": {
+      "main-banner-slides": [
+        {
+          "bg": "our-story.jpg"
+        }
+      ],
+      "mol-footer-pages-content": {
+        "page-title": "Our Story",
+        "paragraphs": [
+          {
+            "text": "We`re a couple passionate about traveling, journeying, and just discovering this beautiful world that we live in, one country at a time! We do the most dificult part of travel, planning for you... Planning."
+          },
+          {
+            "text": "Well Planned 365 in the new kid in town who`s about to change the rules of writing itineraries for trips that you`ll never ever forget! (In a good way)."
+          },
+          {
+            "text": "It`s simple, easy, quick, and saves you the headache that almost ruins trips for people."
+          },
+          {
+            "text": "We`re Well Planned, so you don`t have to be!"
+          }
+        ],
+        "bottom-button": true
+      }      
+    },
+    "org-our-story-content-line-1": {
+      "mol-our-story-line-1-description": {
+        "description": "While on your trip, get support from our team for any last minute reservation changes or alternative recommendations. Due to international time differences, please ask for any updates or changes at least 12 hours in advance."
+      }
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-get-started": {
+    "head": {
+      "title": "get-started",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },         
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-get-started-content-line-1":true,
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-terms-and-condition": {
+    "head": {
+      "title": "terms-&-condition",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },
+          {
+            "item": "Sample Trip"
+          },        
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing"
+          }
+        ]
+      }
+    },
+    "org-main-baner": {
+      "main-banner-slides": [
+        {
+          "bg": "our-story.jpg"
+        }
+      ],
+      "mol-terms-and-conditions": true      
+    },    
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-privacy-policy": {
+    "head": {
+      "title": "Privacy Policy",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },
+          {
+            "item": "Sample Trip"
+          },        
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-main-baner": {
+      "main-banner-slides": [
+        {
+          "bg": "our-story.jpg"
+        }
+      ],
+      "mol-privacy-policy": true          
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-cookies": {
+    "head": {
+      "title": "Cookies",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },
+          {
+            "item": "Sample Trip"
+          },        
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing"
+          }
+        ]
+      }
+    },
+    "org-main-baner": {
+      "main-banner-slides": [
+        {
+          "bg": "our-story.jpg"
+        }
+      ],
+      "mol-cookies": true           
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-contact-us": {
+    "head": {
+      "title": "contact-us",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },        
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-main-baner": {
+      "main-banner-slides": [
+        {
+          "bg": "our-story.jpg"
+        }
+      ],
+      "mol-footer-pages-content": {
+        "page-title": "Contact Us",
+        "paragraphs": [
+          {
+            "text": "We Love to Hear from You!"
+          },
+          {
+            "text": "Do you want to know more about our Well Planned service? Or Have a query that you want us to answer?"
+          },
+          {
+            "text": "Contact us today! We love to hear from you."
+          },
+          {
+            "text": " Email us at:"
+          }
+        ],
+        "mail": true
+      }           
+    },
+    "org-our-story-content-line-1": {
+      "mol-our-story-line-1-description": {
+        "description": " We at Well Planned 365 know how hard it is to not be able to feel freedom while traveling because you're part of a tourist group. That's why, we write our itineraries in a way to really keep things loose! No strings atached. Time not on your side? Not in the mood to read endless travel blogs and research like you're preparing a thesis? It's boring. But we love research, we'll do it for you and craft the perfect itinerary! No more wasting time and effort. At Well Planned 365, all you have to do is have fun and enjoy your trip!"
+      }
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-pricing": {
+    "head": {
+      "title": "Pricing",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },        
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "item": "How it Works"
+          },
+          {
+            "active": true,
+            "item": "Pricing "
+          }
+        ]
+      }
+    }, 
+    "org-pricing-content-line-1": {
+      
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-how-it-works": {
+    "head": {
+      "title": "How it Works",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },        
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "active": true,
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-how-it-works-slides":true,
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+
+    "foot": {
+      "jquery": true,
+      "slick-slider":true
+    }
+  },
+  "p-simple-trip-countries": {
+    "head": {
+      "title": "simple-trips-countries",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "active": true,
+            "item": "Home"
+          },        
+          {
+            "item": "Sample Trip"
+          },
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-simple-trips-baner":true,
+    "org-trips-content-line-3":{},
+    "org-sample-trips-days":[
+      {
+        "bg-image":"assets/img/trip-1.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 1"
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+            {
+              "title-1": "Breakfast: Winter Garden Bar “Highly Recommended” ",
+              "title-2": "Location: The St. Regis Hotel “Your Hotel” ",
+              "link": "https://www.marriott.com/hotels/hotel-ph tos/ﬂrxr-the-st-regisﬂorence/ ",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Galleria Dell'accademia “Art Gallery”",
+              "title-2": "",
+              "link": "http://www.accademia-tickets.com/? gclid=EAIaIQobChMI6qqUp9PK3QIV47ztCh1ZXQANEAAYASAAEgL9BvD_BwE#buy",
+              "paragraph": ""
+            },
+            {
+              "title-1": "*Must see “Statue of David” ",
+              "title-2": "",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Explore San Larenzo Market",
+              "title-2": "Largest and most popular of the streets market in Florence",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Lunch: Eataly “Our Suggestion”",
+              "title-2": "*The area is full with many restaurants and coffeeshops, you can choose while you are walking",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Basilica di San Lorenzo + Medici Chapel",
+              "title-2": "*Please note that “San Larenzo Market+Basilica di San Lorenzo",
+              "link": "https://www.marriott.com/hotels/hotel-ph tos/ﬂrxr-the-st-regisﬂorence/ ",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Dinner: La Bottega del Buon Caffè",
+              "title-2": "",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Highlights:",
+              "title-2": "Michelin Star Restaurant Dinner opening hours: 7:30-10:30 PM",
+              "link": "https://www.instagram.com/p/BlvX2XRgZS4/? utm_",
+              "paragraph": ""
+            }
+          ]
+        }
+      },
+      {
+        "bg-image":"assets/img/trip-3.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 2"
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+            {
+              "title-1": "Breakfast: 7:00-11:00 AM IL Palagio <br> Restaurant “Indoor/Outdoor”",
+              "title-2": "Location:  Four Seasons Hotel ",
+              "link": "https://m.fourseasons.com/ﬂorence/dining/restaurants/il_palagio/",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Bargello Museum",
+              "title-2": "",
+              "link": "http://www.accademia-tickets.com/? gclid=EAIaIQobChMI6qqUp9PK3QIV47ztCh1ZXQANEAAYASAAEgL9BvD_BwE#buy",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Piazza Della Repubblica ",
+              "title-2": "*Lunch or Sweets from the restaurants or coffees around",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Climb up to Piazzale Michelangelo *Free of charge ",
+              "title-2": "Best city view at sunset",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Dinner: 7:30-10:00 PM",
+              "title-2": "La Loggia <br> Location: Villa San Michele Hotel <br> 19 minuets from your hotel",
+              "link": "",
+              "paragraph": ""
+            }
+          ]
+        }
+      },
+      {
+        "bg-image":"assets/img/trip-4.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 3"
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+            {
+              "title-1": "Breakfast",
+              "title-2": "La Menagere",
+              "link": "http://www.lamenagere.it/ristorante/",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Bargello Museum",
+              "title-2": "",
+              "link": "http://www.accademia-tickets.com/? gclid=EAIaIQobChMI6qqUp9PK3QIV47ztCh1ZXQANEAAYASAAEgL9BvD_BwE#buy",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Piazza Della Repubblica ",
+              "title-2": "*Lunch or Sweets from the restaurants or coffees around",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Climb up to Piazzale Michelangelo *Free of charge ",
+              "title-2": "*Best city view at sunset",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Dinner: 7:30-10:00 PM",
+              "title-2": "La Loggia <br> Location: Villa San Michele Hotel <br> 19 minuets from your hotel",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            }      
+          ]
+        }
+      },
+      {
+        "bg-image":"assets/img/trip-5.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 4"
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+            {
+              "title-1": "Ufﬁzi Gallery  ",
+              "title-2": "Please buy tickets from here:",
+              "link": "https://www.ufﬁzi.it/en/tickets#museum-tickets",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Lunch",
+              "title-2": "Hard rock Florence Ristorante Ora d’Aria “Lunch Time: 12:30-2:30” PM ",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Palazzo Medici Riccardi ",
+              "title-2": "",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "San Marco Museum ",
+              "title-2": "",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Dinner ",
+              "title-2": "If you want to skip breakfast please shifts the same restaurants to dinner ",
+              "link": "",
+              "paragraph": ""
+            }
+          ]
+        }
+      },
+      {
+        "bg-image":"assets/img/trip-6.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 5",
+          "sub-title":"Day trip to Pisa “On What’sApp” "
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+          ]
+        }
+      },
+      {
+        "bg-image":"assets/img/trip-7.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 6",
+          "sub-title":" “Not to be Monday day”"
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+            {
+              "title-1": "Ponte Vecchio Bridge + Jewelry Shops",
+              "title-2": "Oltrarno “Across River Arno neighborhoods” Includes",
+              "list":"1. The Palazzo Pitti “Museum” <br> 2. Beboli Gardens <br> 3. Ilorentine Artisans “Shops” <br> 4. Basilica of Santa Maria del Santo Spirito <br> 5. Brancacci Chapel",
+              "title3":"Dining Options",
+              "title4":"Dining Options",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "",
+              "title-2": "Oltrarno “Across River Arno neighborhoods” Includes",
+              "link": "",
+              "paragraph": ""
+             
+            }                   
+          ]
+        }
+      },
+      {
+        "bg-image":"assets/img/trip-8.jpg",
+        "mol-trip-days-title":{
+          "title":"Day: 7"
+        },
+        "mol-trip-info": {
+          "trip-info-item": [
+            {
+              "title-1": "Breakfast: Winter Garden Bar “Highly Recommended” ",
+              "title-2": "Location: The St. Regis Hotel “Your Hotel” ",
+              "link": "https://www.marriott.com/hotels/hotel-ph tos/ﬂrxr-the-st-regisﬂorence/ ",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Galleria Dell'accademia “Art Gallery”",
+              "title-2": "",
+              "link": "http://www.accademia-tickets.com/? gclid=EAIaIQobChMI6qqUp9PK3QIV47ztCh1ZXQANEAAYASAAEgL9BvD_BwE#buy",
+              "paragraph": ""
+            },
+            {
+              "title-1": "*Must see “Statue of David” ",
+              "title-2": "",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Explore San Larenzo Market",
+              "title-2": "Largest and most popular of the streets market in Florence",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Lunch: Eataly “Our Suggestion”",
+              "title-2": "*The area is full with many restaurants and coffeeshops, you can choose while you are walking",
+              "link": "https://www.google.com/amp/s/amp.italyxp.com/en/blog/ ﬂorence/galleria-accademia-art-ﬂorence",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Basilica di San Lorenzo + Medici Chapel",
+              "title-2": "*Please note that “San Larenzo Market+Basilica di San Lorenzo",
+              "link": "https://www.marriott.com/hotels/hotel-ph tos/ﬂrxr-the-st-regisﬂorence/ ",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Dinner: La Bottega del Buon Caffè",
+              "title-2": "",
+              "link": "",
+              "paragraph": ""
+            },
+            {
+              "title-1": "Highlights:",
+              "title-2": "Michelin Star Restaurant Dinner opening hours: 7:30-10:30 PM",
+              "link": "https://www.instagram.com/p/BlvX2XRgZS4/? utm_",
+              "paragraph": ""
+            }
+          ]
+        }
+      }
+    ],
+    "org-trips-content-line-2": {
+      "bg": "sample-trip-2.jpg",
+      "list": [
+        {
+          "item": [
+            {
+              "item": "<span>DESIGNER:</span>Sara"
+            },
+            {
+              "item": "<span>Time:</span>Several"
+            },
+            {
+              "item": "On 27 September, From Rome-Florence We highly recommended going by fast train."
+            },
+            {
+              "item": "<span>Duration:</span>1 hour, 30 minuets"
+            },
+            {
+              "item": "<span>Link:</span><a href=\"#\">https://www.trainline.eu/result? digest=3f116b1bde70b82c8cdeeac03aca6b2dee6f595a&ﬂexibilit y=nonﬂexi&travelClass=ﬁrst</a>"
+            }
+          ]
+        },
+        {
+          "title": "Opera Florence “Any of the days mentioned”",
+          "item": [
+            {
+              "item": "<span>Link:</span>https://operaticketsitaly.com/opera-concerts-ﬂorence-fullschedule/?p=54&l=2&dte=2018-09-26"
+            },
+            {
+              "item": "On 27-09-2018 at 8:00 PM and 30-09-2018 at 3:30 PM La Traviata, Opera By G. Verdi"
+            },
+            {
+              "item": "On 29-09-2018 at 3:30 PM Rigoletto, Opera By G. Verdi and La Traviata a Plazzo at 8:15 PM"
+            }
+          ]
+        }
+      ]
+    },
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true,
+      "bootstrap": true
+    }
+  },
+  "p-sample-trip-list": {
+    "head": {
+      "title": "Sample trip list",
+      "bootstrap": true,
+      "slick": true
+    },
+    "org-header": {
+      "mol-main-nav": {
+        "nav-items": [
+          {
+            "item": "Home"
+          },
+          {
+            "active": true,
+            "item": "Sample Trip"
+          },        
+          {
+            "item": "How it Works"
+          },
+          {
+            "item": "Pricing "
+          }
+        ]
+      }
+    },
+    "org-sample-trip-list-baner": true,
+    "org-sample-trip-list-content-line": [
+      {
+        "title": "Rome",
+        "paragraphs": [
+          {
+            "text": "Italy has something for everyone, from historical cities and beautiful islands to rolling hills and ancient ruins. Whatever your family’s interests, our travel designers will help create the perfect trip with activities and experiences that cater to all age ranges."
+          },
+          {
+            "text": "There’s no chance of anyone going hungry in Italy, and and as well as recommending the best restaurants for relaxed family meals, we can arrange cooking classes where everyone gets busy kneading pizza dough, cutting pasta shapes and whipping up delicious tirimasu. No trip to Italy is complete without sampling their world-famous gelato and you’ll get to taste every flavour under the sun on specialist tours."
+          }
+        ],
+        "bg": "st-list-1.jpg"
+      },
+      {
+        "reverse": true,
+        "title": "London",
+        "paragraphs": [
+          {
+            "text": "Italy has something for everyone, from historical cities and beautiful islands to rolling hills and ancient ruins. Whatever your family’s interests, our travel designers will help create the perfect trip with activities and experiences that cater to all age ranges."
+          },
+          {
+            "text": "There’s no chance of anyone going hungry in Italy, and and as well as recommending the best restaurants for relaxed family meals, we can arrange cooking classes where everyone gets busy kneading pizza dough, cutting pasta shapes and whipping up delicious tirimasu. No trip to Italy is complete without sampling their world-famous gelato and you’ll get to taste every flavour under the sun on specialist tours."
+          }
+        ],
+        "bg": "st-list-2.jpg"
+      },
+      {
+        "title": "Singapore",
+        "paragraphs": [
+          {
+            "text": "Italy has something for everyone, from historical cities and beautiful islands to rolling hills and ancient ruins. Whatever your family’s interests, our travel designers will help create the perfect trip with activities and experiences that cater to all age ranges."
+          },
+          {
+            "text": "There’s no chance of anyone going hungry in Italy, and and as well as recommending the best restaurants for relaxed family meals, we can arrange cooking classes where everyone gets busy kneading pizza dough, cutting pasta shapes and whipping up delicious tirimasu. No trip to Italy is complete without sampling their world-famous gelato and you’ll get to taste every flavour under the sun on specialist tours."
+          }
+        ],
+        "bg": "st-list-3.jpg"
+      },
+      {
+        "reverse": true,
+        "title": "Budapest",
+        "paragraphs": [
+          {
+            "text": "Italy has something for everyone, from historical cities and beautiful islands to rolling hills and ancient ruins. Whatever your family’s interests, our travel designers will help create the perfect trip with activities and experiences that cater to all age ranges."
+          },
+          {
+            "text": "There’s no chance of anyone going hungry in Italy, and and as well as recommending the best restaurants for relaxed family meals, we can arrange cooking classes where everyone gets busy kneading pizza dough, cutting pasta shapes and whipping up delicious tirimasu. No trip to Italy is complete without sampling their world-famous gelato and you’ll get to taste every flavour under the sun on specialist tours."
+          }
+        ],
+        "bg": "st-list-4.jpg"
+      },
+      {
+        "title": "Hong Kong",
+        "paragraphs": [
+          {
+            "text": "Italy has something for everyone, from historical cities and beautiful islands to rolling hills and ancient ruins. Whatever your family’s interests, our travel designers will help create the perfect trip with activities and experiences that cater to all age ranges."
+          },
+          {
+            "text": "There’s no chance of anyone going hungry in Italy, and and as well as recommending the best restaurants for relaxed family meals, we can arrange cooking classes where everyone gets busy kneading pizza dough, cutting pasta shapes and whipping up delicious tirimasu. No trip to Italy is complete without sampling their world-famous gelato and you’ll get to taste every flavour under the sun on specialist tours."
+          }
+        ],
+        "bg": "st-list-5.jpg"
+      }
+    ],
+    "org-footer-main": {
+      "mol-footer-list": [
+        {
+          "link": "Our Story",
+          "href": "#"
+        },
+        {
+          "link": "Terms & Condition",
+          "href": "#"
+        },
+        {
+          "link": "Privacy Policy",
+          "href": "#"
+        },
+        {
+          "link": "Cookie Policy",
+          "href": "#"
+        },
+        {
+          "link": "Contact Us",
+          "href": "#"
+        }
+      ],
+      "mol-footer-icons": [
+        {
+          "icon": "assets/img/insta.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/twitter.png",
+          "href": "#",
+          "alt": "social-icon"
+        },
+        {
+          "icon": "assets/img/facebook.png",
+          "href": "#",
+          "alt": "social-icon"
+        }
+      ]
+    },
+    "foot": {
+      "jquery": true,
+      "slick-slider":true,
+      "bootstrap": true
+    }
+  }
+}

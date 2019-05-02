@@ -1,0 +1,113 @@
+$fonts-path: '../fonts/my-fonts/';
+
+
+/* Helvetica */
+// Bold
+@font-face {
+  font-family: 'HelveticaNeueCyr-Bold';
+  src: url('#{$fonts-path}HelveticaNeueCyr-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// Roman
+@font-face {
+  font-family: 'HelveticaNeueCyr-Roman';
+  src: url('#{$fonts-path}HelveticaNeueCyr-Roman.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// Light
+@font-face {
+  font-family: 'HelveticaNeueCyr-Light';
+  src: url('#{$fonts-path}HelveticaNeueCyr-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+// Medium
+@font-face {
+  font-family: 'HelveticaNeueCyr-Medium';
+  src: url('#{$fonts-path}HelveticaNeueCyr-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Old Standart */
+@font-face {
+  font-family: 'OldStandard';
+  src: url('#{$fonts-path}OldStandard-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Exo */
+// Light
+@font-face {
+  font-family: 'Exo-Light';
+  src: url('#{$fonts-path}Exo-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Exo */
+// Bold
+@font-face {
+  font-family: 'Exo-Bold';
+  src: url('#{$fonts-path}Exo-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* Exo */
+// regular
+@font-face {
+  font-family: 'Exo-Regular';
+  src: url('#{$fonts-path}Exo-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* BRUSHSCRIPT */
+@font-face {
+  font-family: 'BRUSHSCRIPT';
+  src: url('#{$fonts-path}BRUSHSCRIPT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ClearSans */
+// regular
+@font-face {
+  font-family: 'clearsans-regular';
+  src: url('#{$fonts-path}ClearSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ClearSans */
+// light
+@font-face {
+  font-family: 'clearsans-light';
+  src: url('#{$fonts-path}ClearSans-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ClearSans */
+// bold
+@font-face {
+  font-family: 'clearsans-bold';
+  src: url('#{$fonts-path}ClearSans-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

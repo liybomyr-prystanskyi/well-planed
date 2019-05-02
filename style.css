@@ -1,0 +1,15 @@
+/*
+Theme Name: wellplanned
+Author: Sviatoslav, ira.che
+Version: 1.0
+*/
+
+.btn-custome-style:hover {
+    color: #fff !important;
+}
+
+@media only screen and (max-width: 990px) {
+    .page-template-page-get-started .footer-main {
+        top: 91px;
+    }
+}

@@ -1,0 +1,24 @@
+{{#org-sample-trip-list-content-line}}
+<section class="content-line content-line--sample-trip-list">
+  <div class="container">
+    <div class="row align-items-center">
+      <!-- Text side -->
+      <div class="col-12 col-lg-6 {{#reverse}}order-1 order-lg-2{{/reverse}}">
+        <div class="st-text-side {{#reverse}}st-text-side--reverse{{/reverse}}">
+          <h2>{{title}}</h2>
+          {{#paragraphs}}
+          <p>{{text}}</p>
+          {{/paragraphs}}
+          <a href="#" class="btn btn--default btn-custome-style text-uppercase">read more</a>
+        </div>
+      </div>
+      <!-- /Text side -->
+      <!-- Photo side -->
+      <div class="col-12 col-lg-6 align-self-stretch position-relative {{#reverse}}order-2 order-lg-1{{/reverse}}">
+        <div class="st-photo-side {{#reverse}}st-photo-side--reverse{{/reverse}}" style="background-image: url('assets/img/{{bg}}')"></div>
+      </div>
+      <!-- /Photo side -->
+    </div>
+  </div>
+</section>
+{{/org-sample-trip-list-content-line}}

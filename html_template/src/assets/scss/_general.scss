@@ -1,0 +1,101 @@
+body,
+html {
+  min-width: 320px;
+  font-size: 16px;
+}
+
+.btn {
+  display: inline-block;
+  &--default {
+    padding: 11px 28px;
+    text-transform: uppercase;
+    font-family: $f-helvetica-bold;
+    color: color(2);
+    font-size: 0.9rem;
+    background-color: color(3);
+    border-radius: 30px;
+    &:hover,
+    &:focus {
+      color: color(2);
+      background-color: lighten(color(3), 5%);
+    }
+    &-blue {
+      background-color: color(5);
+    }
+  }
+  &--get-started {
+    color: color(2);
+    text-transform: uppercase;
+    font-family: $f-helvetica-medium;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    padding: 3px;
+    border: 1px solid rgba(color(6), .41);
+    border-radius: 40px;
+    position: relative;
+    outline: none;
+    span {
+      display: inline-block;
+      padding: 15px 50px;
+      background-color: color(5);
+      border-radius: 40px;
+      transition: all .3s ease-in-out;
+      outline: none;
+    }
+    &:hover,
+    &:focus {
+      color: color(2);
+      span {
+        background-color: lighten(color(5), 5%);
+      }
+    }
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      height: 1px;
+      width: 768px;
+      position: absolute;
+      top: 50%;
+    }
+    &:before {
+      right: calc(100% + 1px);
+      background-image: linear-gradient(to right, transparent 0%, rgba(color(6), .41) 100%);
+    }
+    &:after {
+      left: calc(100% + 1px);
+      background-image: linear-gradient(to left, transparent 0%, rgba(color(6), .41) 100%);
+    }
+  }
+  border-radius: 0;
+}
+
+.arr {
+  border-radius: 50%;
+  background-color: color(3);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 95%;
+  display: block;
+  transition: all .3s ease-in-out;
+  &:hover {
+    background-color: lighten(color(3), 5%);
+  }
+  &--down {
+    width: 60px;
+    height: 60px;
+    background-image: url(../img/arr-down.png);
+  }
+}
+
+.content-line {
+  padding: 70px 0;
+  overflow: hidden;
+}
+
+
+@media screen and (min-width: 1450px) {
+  .container {
+    max-width: 1480px;
+  }
+}

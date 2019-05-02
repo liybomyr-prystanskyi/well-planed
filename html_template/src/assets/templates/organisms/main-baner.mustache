@@ -1,0 +1,20 @@
+{{#org-main-baner}}
+<section class="main-baner {{#no-animate}}no-animate{{/no-animate}}">
+
+<div class="slider-main-content" data-delay="5000">
+  {{#main-banner-slides}}
+    <div class="bg-item" style="background-image:url('assets/img/{{bg}}');"></div>
+  {{/main-banner-slides}}
+</div>
+<div class="baner-content">
+  {{> ../molecules/animation-1 }}
+  {{> ../molecules/footer-pages-content }}
+  {{> ../molecules/cookies }}
+  {{> ../molecules/privacy-policy }}
+  {{> ../molecules/terms-and-conditions }}
+</div>
+{{#down-button}}
+  <a href="#" class="arr arr--down"></a>
+{{/down-button}}
+</section>
+{{/org-main-baner}}

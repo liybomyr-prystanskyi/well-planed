@@ -1,0 +1,62 @@
+<div id="cookieAcceptBar" class="cookieAcceptBar">
+	We use cookies to improve your experience when using our website. <a href="#">Read our cookies policy.</a><br> 
+	<button id="cookieAcceptBarConfirm" class="btn btn--default">I agree</button>
+</div>
+{{#foot}} 
+{{#jquery}}
+<!-- Jquery -->
+<script src="assets/js/vendors/jquery.min.js"></script> 
+{{/jquery}} 
+{{#bootstrap}}
+<!-- Bootstrap -->
+<script src="assets/js/vendors/bootstrap.min.js"></script> 
+{{/bootstrap}}
+{{#slick-slider}}
+<!-- Slick slider -->
+<script src="assets/js/vendors/slick.min.js"></script> 
+{{/slick-slider}} 
+{{#aos}}
+<!-- Animate on scroll -->
+<script src="assets/js/vendors/aos.js"></script> 
+{{/aos}} 
+
+{{#map}}
+<!-- Map -->
+<script>
+	function initMap() {
+		var coords = { lat: 49.812813, lng: 24.000806 };
+		var map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 15,
+				center: coords
+		});
+		var marker = new google.maps.Marker({
+				position: coords,
+				map: map,
+				icon: "assets/img/marker.png"
+		});
+	}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDoLs4jh4_7ZW16LDVDAXDPGISWv9RN-x8&callback=initMap" async
+    defer></script> 
+{{/map}} 
+
+<script>
+	// this is important
+	var polyfilter_scriptpath = '/assets/js/vendors/';
+</script>
+
+<script src="assets/js/vendors/contentloaded.js"></script>
+<script src="assets/js/vendors/cssParser.js"></script>
+<script src="assets/js/vendors/css-filters-polyfill.js"></script>
+<script src="assets/js/vendors/clip-path-polygon.min.js"></script>
+<script src="assets/js/vendors/clippath.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+<script src="https://rawgit.com/andreruffert/rangeslider.js/develop/dist/rangeslider.min.js"></script>
+<script src="assets/js/vendors/jquery.mCustomScrollbar.js"></script>
+<script src="assets/js/script.min.js"></script>
+
+</body>
+
+</html>
+{{/foot}}

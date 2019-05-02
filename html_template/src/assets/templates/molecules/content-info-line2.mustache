@@ -1,0 +1,28 @@
+{{#mol-content-info-line2}}
+<div class="tab-pane fade {{#show}}show active{{/show}}" id="{{{tab-id}}}" role="tabpanel" aria-labelledby="v-pills-home-tab">
+
+  {{#title}}
+  <h2>{{{title}}}</h2>
+  {{/title}}
+
+  <div class="content-line-2__info__parameters {{padding-top}} ">
+    {{#parameters}}
+    {{#parameters-info}}
+    <p>{{{parameters-info}}}</p>
+    {{/parameters-info}}
+    {{#parameters-title}}
+    <h4>{{parameters-title}}</h4>
+    {{/parameters-title}}
+    {{/parameters}}
+  </div>
+
+  <div class="content-line-2__info__description">
+    {{#description}}
+    <p>
+      {{{description}}}
+    </p>
+    {{/description}}
+  </div>
+
+</div>
+{{/mol-content-info-line2}}
